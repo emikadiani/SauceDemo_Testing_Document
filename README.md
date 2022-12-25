@@ -1,2 +1,2 @@
-# JIRA-SauceDemo
-this repository is used for my own portfolio regarding testing sauce demo site using Jira managements tools
+# SauceDemo_Testing_Document
+this repository is used for my own portfolio for testign documents regarding sauce demo site 
